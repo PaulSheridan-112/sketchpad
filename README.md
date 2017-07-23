@@ -1,4 +1,6 @@
-ETCH A SKETCH / SKETCHPAD
+**ETCH A SKETCH / SKETCHPAD**
+
+[Click Here to view The App](https://paulsheridan-112.github.io/sketchpad/)
 
 My First JavaScript/JQuery Project
 
